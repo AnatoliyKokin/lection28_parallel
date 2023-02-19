@@ -1,0 +1,5 @@
+Enter array size:
+1000000
+Alg.SummatorSimple result= 342310141 time= 22,3483 msec
+Alg.SummatorParallel result= 342310141 time= 4,5207 msec
+Alg.SummatorPlinq result= 342310141 time= 28,6357 msec
